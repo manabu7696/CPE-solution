@@ -12,6 +12,10 @@
 
 [10783-Odd_Sum](https://zerojudge.tw/ShowProblem?problemid=c022) - 2026/02/09
 
+[10041-Vitos_family](https://zerojudge.tw/ShowProblem?problemid=a737) - 2026/09/10
+
 ### other
 
 [10696-f91](https://zerojudge.tw/ShowProblem?problemid=c002) - 2026/02/13
+
+[10079-Pizza_Cutting](https://zerojudge.tw/ShowProblem?problemid=c024) - 2026/02/14
